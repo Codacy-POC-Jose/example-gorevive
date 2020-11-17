@@ -12,5 +12,5 @@ func Public() {
 	errors.New(fmt.Sprintf("%s", "New"))
 }
 
-func example() {
+func example() {
 }
