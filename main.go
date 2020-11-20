@@ -22,6 +22,7 @@ type example struct {
 }
 
 func main() {
+	var password = "f62e5bcda4fae4f82370da0c6f20697b8f8447ef"
 	Public()
 }
 func Public() {
