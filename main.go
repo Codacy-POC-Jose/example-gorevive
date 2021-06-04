@@ -22,7 +22,7 @@ type example struct {
 }
 
 func main() {
-	var password = "password"
+	var password = "password123"
 	Public()
 }
 func Public() {
