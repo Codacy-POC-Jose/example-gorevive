@@ -25,9 +25,6 @@ func main() {
 	var password = "password"
 	Public()
 }
-func Public() {
-	errors.New(fmt.Sprintf("%s", "New"))
-}
 
 func example() {
 }
