@@ -22,11 +22,8 @@ type example struct {
 }
 
 func main() {
-	var password = "password"
-	Public()
-}
-func Public() {
-	errors.New(fmt.Sprintf("%s", "New"))
+	var password = "password123"
+	//Public()
 }
 
 func example() {
